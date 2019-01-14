@@ -1,3 +1,6 @@
+# :no_entry: [DEPRECATED] Active at [https://github.com/anmaped/rmtld3synth](https://github.com/anmaped/rmtld3synth)
+ 
+This repository is no longer mantained, please consider using [https://github.com/anmaped/rmtld3synth](https://github.com/anmaped/rmtld3synth) instead.
 
 rmtld3synth toolchain: Synthesis from a fragment of MTL with durations
 ===========================================
